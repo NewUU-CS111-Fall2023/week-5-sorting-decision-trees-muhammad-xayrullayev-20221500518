@@ -1,3 +1,9 @@
+
+ #Author: Muhammad Xayrullayev
+ # Date: 16.11.2023
+ # Name: Muhammad Xayrullayev
+ 
+
 def display_colors(matrix):
     color_mapping = {'b': 'Blue', 'y': 'Yellow', 'w': 'White'}
 
